@@ -204,7 +204,7 @@ function App() {
     <section className="intro">
       <p className="eyebrow">剩余价值 · 交易文案</p>
       <h1>算清 VPS 剩余价值，<br/>顺手生成出售帖。</h1>
-      <p className="lead">按续费周期、剩余天数、汇率、Push 费和溢价估算成交参考价；文本、Markdown、链接、图片都能直接导出。</p>
+      <p className="lead">输入续费与到期时间，快速估算参考售价，并导出交易文案。</p>
       <div className="trust-badges" aria-label="工具特性">
         <span>本地计算，不上传数据</span>
         <span>自动 / 手动汇率</span>
